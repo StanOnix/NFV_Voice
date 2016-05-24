@@ -5,8 +5,6 @@
 #include <sys/socket.h>
 #include <arpa/inet.h>
 #include <stddef.h>
-#include <config-voice_pri.h>
-#include <config-voice_log.h>
 
 #define BUFSIZE 2048
 #define SERVICE_PORT	21234
